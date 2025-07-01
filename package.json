@@ -1,0 +1,24 @@
+{
+  "name": "js-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almamutuguti/js-APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/almamutuguti/js-APIs/issues"
+  },
+  "homepage": "https://github.com/almamutuguti/js-APIs#readme",
+  "dependencies": {
+    "dotenv": "^17.0.0"
+  }
+}
